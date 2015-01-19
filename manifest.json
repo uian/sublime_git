@@ -1,0 +1,10 @@
+{  
+  "name": "reddit_open",  
+  "manifest_version": 2,
+  "version": "0.1",  
+  "description": "open these.",  
+  "browser_action": {  
+    "default_title": "reddit_open",
+    "default_popup": "popup.html"
+  }  
+} 
