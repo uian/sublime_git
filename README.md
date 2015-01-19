@@ -1,2 +1,0 @@
-# sublime_git
-gao
